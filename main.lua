@@ -36,4 +36,4 @@ textObject:setFillColor (1, 1, 0)
 local textObjectSignature
 
 -- sign my name
-textObjectSignature=  display. newText ("By Desmy", display.contentCenterX, display.contentCenterY,nil,56)
+textObjectSignature=  display. newText ("By Desm", display.contentCenterX, display.contentCenterY,nil,56)
